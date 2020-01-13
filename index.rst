@@ -11,7 +11,8 @@ C'est quoi?
 *********
 
 Il contient plus de 50.000 QCM, QCU et cas cliniques classés par module, par cours, par source et bientôt par difficulté.
-Plusieurs sources de QCM ( `Residanat Alger`_ , Constiantine, Oran, Blida, Annaba, Tlemcen, Sidi Belabbes, Externat Alger) et aussi Le lapin bleu, Hippocrate, training test, hyperqcm combinés, actualisés avec moins de répétitions.
+Plusieurs sources de QCM ( `Residanat Alger`_  , Constiantine, Oran, Blida, Annaba, Tlemcen, Sidi Belabbes, Externat Alger) et aussi Le lapin bleu, Hippocrate, training test, hyperqcm combinés, actualisés avec moins de répétitions.
+
 .. _Residanat Alger: https://siamois.co/
 
 *********
